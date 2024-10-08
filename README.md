@@ -1,6 +1,7 @@
-# flutter_application_3
+# ECOSLUGE_Application
 
-A new Flutter project.
+A Flutter project.
+A Biogas Production Analysis Application for Laboratory-Scale Methane Monitoring
 
 ## Getting Started
 
